@@ -1,0 +1,7 @@
+numpy
+pandas
+finance-byu
+seaborn
+matplotlib
+ipykernel
+pyarrow
