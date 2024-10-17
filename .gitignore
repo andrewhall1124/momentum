@@ -1,2 +1,3 @@
 *.ftr
 .venv
+*.csv
